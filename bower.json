@@ -1,11 +1,11 @@
 {
-  "name": "angular-datetimepicker-codev",
+  "name": "angular-bootstrap-datetimepicker",
   "version": "0.0.0",
   "homepage": "",
   "authors": [
     "Gallagher Communication"
   ],
-  "description": "angular-datetimepicker-codev",
+  "description": "angular-bootstrap-datetimepicker",
   "moduleType": [
     "globals"
   ],
