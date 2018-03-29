@@ -1,17 +1,22 @@
 {
-  "name": "Crypto",
+  "name": "angular-bootstrap-datetimepicker",
   "version": "0.0.0",
-  "homepage": "",
+  "homepage": "https://github.com/codeveloped-ltd/angular-bootstrap-datetimepicker",
   "authors": [
-    "Crypto"
+    "Gallagher Communication"
   ],
-  "description": "Crypto",
+  "description": "angular-bootstrap-datetimepicker",
   "moduleType": [
     "globals"
   ],
-  "keywords": [],
   "license": "MIT",
-  "ignore": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {},
   "main": [
     "js/datetimepicker.js"
