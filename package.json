@@ -6,8 +6,7 @@
   "license": "MIT",
   "homepage": "",
   "main": [
-    "rollups/sha1.js",
-    "rollups/md5.js"
+    "js/datetimepicker.js"
   ],
   "dependencies": {}
 }
