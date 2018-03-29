@@ -1,11 +1,11 @@
 {
-  "name": "angular-bootstrap-datetimepicker",
+  "name": "Crypto",
   "version": "0.0.0",
   "homepage": "",
   "authors": [
-    "Gallagher Communication"
+    "Crypto"
   ],
-  "description": "angular-bootstrap-datetimepicker",
+  "description": "Crypto",
   "moduleType": [
     "globals"
   ],
@@ -13,7 +13,8 @@
   "license": "MIT",
   "ignore": [],
   "dependencies": {},
-  "main": "index.js",
-  "style": "src/css/datetimepicker.css",
-  "scss": "src/scss/datetimepicker.scss"
+  "main": [
+    "rollups/sha1.js",
+    "rollups/md5.js"
+  ]
 }
