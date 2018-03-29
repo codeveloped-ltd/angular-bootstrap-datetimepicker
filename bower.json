@@ -1,0 +1,19 @@
+{
+  "name": "angular-bootstrap-datetimepicker",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "Gallagher Communication"
+  ],
+  "description": "angular-bootstrap-datetimepicker",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {},
+  "main": "index.js",
+  "style": "src/css/datetimepicker.css",
+  "scss": "src/scss/datetimepicker.scss"
+}
